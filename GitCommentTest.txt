@@ -1,6 +1,14 @@
+
 git init
 git add fileName
 git commite -m "first"
 git remote add orgin "url"
 git push -u orgin master
 today day end
+
+First step git init
+git status
+second step git add fileName
+third step git commite -m "first"
+fourth step git remote add orgin "url"
+
