@@ -1,0 +1,4 @@
+git init
+git add fileName
+git commite -m "first"
+git remote add orgin "url"
